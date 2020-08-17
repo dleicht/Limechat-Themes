@@ -1,0 +1,58 @@
+# 
+#
+#  devdk - Dark theme, #devdk @ freenode // @devdkhq on twitter
+#
+#  Author: @simonbusborg
+#
+#
+
+log-view:
+  nickname-format: '%n: '
+  scroller-highlight-color: '#e28964'
+
+input-text:
+  font-family: 'Avenir Next'
+  font-size: 14.0
+  background-color: '#2d2d2d'
+  color: '#ffffff'
+
+member-list:
+  font-family: 'Avenir Next'
+  font-size: 14.0
+  color: '#93a1a1'
+  background-color: '#2d2d2d'
+  operator:
+    color: '#3498db'
+  selected:
+    color: '#fdf6e3'
+    background:
+      top-line-color: '#268bd2'
+      bottom-line-color: '#268bd2'
+      top-color: '#268bd2'
+      bottom-color: '#268bd2'
+         
+server-tree:
+  font-family: 'Avenir Next'
+  font-size: 14.0
+  background-color: '#2d2d2d'
+  highlight:
+    color: '#e74c3c'
+  newtalk:
+    color: '#d33682'
+  unread:
+    color: '#e7e7e7'
+  normal:
+    active:
+      color: '#93a1a1'
+    inactive:
+      color: '#586e75'
+  selected:
+    active:
+      color: '#fdf6e3'
+    inactive:
+      color: '#93a1a1'
+    background:
+      top-line-color: '#268bd2'
+      bottom-line-color: '#268bd2'
+      top-color: '#268bd2'
+      bottom-color: '#268bd2'
